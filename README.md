@@ -31,7 +31,7 @@ ___
 ## Hi there 👋
 
 - I'm Ivan, and I'm a freshman master's student at ITMO University ("Master of Software Engineering").
-- I'm eager to get a job as an intern or junior developer in Python, working on backend and web development.
+- I'm eager to get a job as an intern or junior developer in Python to work on backend and web development.
 - My skills are: Python 3, algorithms and data structures, OOP, PostgreSQL, bash, Git(Hub), MS Office.
 - Below is a list of my projects:
 
