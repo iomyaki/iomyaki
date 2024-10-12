@@ -1,15 +1,19 @@
 ## Мои примечательные проекты
-### [AutoCoEx](https://github.com/iomyaki/auto_coex) 🧬
-
-- Моя выпускная бакалаврская работа, программа анализа дифференциальной коэкспрессии генов с помощью шумоподавляющего автокодировщика.
-- Стек: CUDA, torch, pandas, numpy, scikit-learn, matplotlib.
-- Программа написана самостоятельно, с минимальными правками научного руководителя.
+### [Бот для платных подписок](https://github.com/iomyaki/paid-sub-tg-bot) 🤖
+- Telegram-бот, с помощью которого можно реализовать платную подписку на закрытый канал. Бот следит за подписками, предупреждает об их завершении и удаляет участников с истёкшей подпиской.
+- Стек: asyncio, aiogram, SQLite, AsyncIOScheduler.
 
 ### [Игры](https://github.com/iomyaki/games) 🎮
 
 - В свободное время пишу простые игры: непобедимые крестики-нолики, сложный морской бой, симуляция русского лото, игра «Жизнь».
 - Стек: tkinter, colorama.
 - Пишу не по гайдам, реализацию механик придумываю сам.
+
+### [AutoCoEx](https://github.com/iomyaki/auto_coex) 🧬
+
+- Моя выпускная бакалаврская работа, программа анализа дифференциальной коэкспрессии генов с помощью шумоподавляющего автокодировщика.
+- Стек: CUDA, torch, pandas, numpy, scikit-learn, matplotlib.
+- Программа написана самостоятельно, с минимальными правками научного руководителя.
 
 ### [Парсер адресов](https://github.com/iomyaki/Sovcombank) 🗺️
 
@@ -23,17 +27,21 @@
 ___
 
 ## My notable projects
-### [AutoCoEx](https://github.com/iomyaki/auto_coex) 🧬
-
-- My bachelor's thesis project, a program for analyzing gene differential co-expression using a denoising autoencoder.
-- Stack: CUDA, torch, pandas, numpy, scikit-learn, matplotlib.
-- The program was written independently, with minimal corrections from my scientific supervisor.
+### [Bot for Paid Subscriptions](https://github.com/iomyaki/paid-sub-tg-bot) 🤖
+- This Telegram bot allows you to implement paid subscriptions to a private channel. The bot tracks subscriptions, sends reminders about their expiration and removes participants whose subscriptions have expired.
+- Stack: asyncio, aiogram, SQLite, AsyncIOScheduler.
 
 ### [Games](https://github.com/iomyaki/games) 🎮
 
 - In my free time, I write simple games: unbeatable tic-tac-toe, complex "Battleship" game, Russian lotto simulation, Conway's Game of Life.
 - Stack: tkinter, colorama.
 - I develop without guides, coming up with the mechanics implementation myself.
+
+### [AutoCoEx](https://github.com/iomyaki/auto_coex) 🧬
+
+- My bachelor's thesis project, a program for analyzing gene differential co-expression using a denoising autoencoder.
+- Stack: CUDA, torch, pandas, numpy, scikit-learn, matplotlib.
+- The program was written independently, with minimal corrections from my scientific supervisor.
 
 ### [Address Parser](https://github.com/iomyaki/Sovcombank) 🗺️
 
@@ -44,15 +52,6 @@ ___
 
 - A bioinformatics script: in the genome assembled using second-generation sequencing, there are "white spots" that can be closed using third-generation sequencing data.
 - Stack: pysam
-
-
-
-
-
-
-
-
-
 
 <!--
 **iomyaki/iomyaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
